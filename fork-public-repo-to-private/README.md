@@ -4,6 +4,6 @@
 
 Edit the variables at the top of the shell script and execute it!
 
-### Based off
+### Based on
 
-Based off of the post *[Make a private fork of a public git repository](https://steinbaugh.com/posts/git-private-fork.html)*.
+Based on the post *[Make a private fork of a public git repository](https://steinbaugh.com/posts/git-private-fork.html)*.
