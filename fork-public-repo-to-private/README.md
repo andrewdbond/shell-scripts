@@ -6,8 +6,6 @@ Including ability to sync code between the public repo and the fork.
 
 Edit the variables at the top of the shell script and execute it!
 
-<!---## Description of basic process
-Create a---> 
 ### Inspired by
 
 Inspired by the post *[Make a private fork of a public git repository](https://steinbaugh.com/posts/git-private-fork.html)*.
